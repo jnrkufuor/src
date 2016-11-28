@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DrunkChecker</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="title_activity_drunk_test">DrunkTest</string>
+    <string name="title_activity_checker_dashboard">Dashboard</string>
+    <string name="title_activity_question">Question</string>
+    <string name="title_activity_questions">Questions</string>
+    <string name="title_activity_score">Score</string>
+</resources>
